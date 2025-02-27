@@ -1,0 +1,2 @@
+# ttsDemo
+实时语音转文字的demo，包含有python后台和react前端，前后端使用websocket通讯，调用的阿里云语音识别模型
