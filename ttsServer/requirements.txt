@@ -1,0 +1,5 @@
+dashscope
+pyaudio
+flask
+flask-cors
+flask-socketio
